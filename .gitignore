@@ -1,7 +1,6 @@
 /.idx
 /README.md
-/file.txt
-/tmp1.txt
-/tmp2.txt
-/tmp3.txt
+/*.txt
+/.vscode
+/*.json
 /node_modules
